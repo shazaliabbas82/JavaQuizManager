@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<questions>
+	<question order="1">
+		<id>1</id>
+		<label>What is the Meaning of OOP ?</label>
+		<difficulty>2</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>UML</topic>
+		</topics>
+		<answers>
+			<answer>Object Oriented Programming</answer>
+		</answers>
+	</question>
+	<question order="2">
+		<id>2</id>
+		<label>A Class cannot contain a method in Java ?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>Java Exception</topic>
+		</topics>
+		<choices>
+			<choice valid="false">Yes</choice>
+			<choice valid="true">No</choice>
+		</choices>
+	</question>
+	<question order="2">
+		<id>3</id>
+		<label>What is the difference between an attribute and an instance ?</label>
+		<difficulty>1</difficulty>
+		<topics>
+			<topic>Java</topic>
+			<topic>UML</topic>
+		</topics>
+		<choices>
+			<choice valid="false">class is like a blueprint</choice>
+			<choice valid="false">An attribute is another term for a field</choice>
+			<choice valid="true">the attribute on the class is shared by all instances</choice>
+		</choices>
+	</question>
+</questions>
